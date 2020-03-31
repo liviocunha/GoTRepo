@@ -1,6 +1,6 @@
 # Game of Thrones Repositório
 
-![./got.jpg](Thrones)
+![Iron Throne](./got.jpg)
 
 Este repositório serve de exemplo para o curso de Git e Github.
 
