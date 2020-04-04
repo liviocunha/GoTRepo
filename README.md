@@ -1,4 +1,4 @@
-# Game of Thrones Repositório
+# Game of Thrones Repository
 
 ![Iron Throne](./got.jpg)
 
